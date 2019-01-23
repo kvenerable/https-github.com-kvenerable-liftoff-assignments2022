@@ -7,11 +7,32 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+PO Register is a web application to allow client users to easily record, track,
+and manage balances of purchases orders given by the customer.
+
+
 ### Features
-Include Features here
+
+The PO Register is a web application that allows users to:
+
+
+Login/ Logout
+Add, Update and Edit Purchase Orders
+Sort by type(Coax, Fiber, Dpr, MDU),Coordinator, Negative Balances,Projects, Dates, No PO
+Complete, and Cancelled
+
+
+
 ### Technologies
-Include Technologies here
+Java
+My Sql
+HTML
+CSS
+Bootstrap
+Thymeleaf
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Sessions
+Login Authentication & Functionality
+API- exporting a excel file for invoicing
