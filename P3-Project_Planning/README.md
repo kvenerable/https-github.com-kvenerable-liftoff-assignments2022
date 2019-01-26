@@ -11,7 +11,7 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 
-*![Login](P3-Project_Planning/Login.PNG)
+*![Login](/P3-Project_Planning/Login.PNG)
 ### Project Tracker
 
 https://www.pivotaltracker.com/n/projects/2239960
