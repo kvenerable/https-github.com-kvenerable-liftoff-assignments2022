@@ -8,14 +8,19 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2239960)
 + [Login](https://github.com/kvenerable/liftoff-assignments/blob/master/P3-Project_Planning/Login.PNG)
-+
++ [Adding a New PO](https://github.com/kvenerable/liftoff-assignments/blob/master/P3-Project_Planning/Adding%20a%20new%20PO.PNG)
++ [Cancelled PO's](https://github.com/kvenerable/liftoff-assignments/blob/master/P3-Project_Planning/Cancelled%20PO's.PNG)
++ [Completed PO's](https://github.com/kvenerable/liftoff-assignments/blob/master/P3-Project_Planning/Completed%20PO's.PNG)
++ [Individual PO](https://github.com/kvenerable/liftoff-assignments/blob/master/P3-Project_Planning/Individal%20PO.PNG)
++ [PO Register Login by System](https://github.com/kvenerable/liftoff-assignments/blob/master/P3-Project_Planning/Login.PNG)
 
 ### Project Tracker
 
-https://www.pivotaltracker.com/n/projects/2239960
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2239960)
+
+
 
 ### Project Repo Link
 
