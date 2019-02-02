@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 [GitHub](https://github.com/kvenerable)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+
 [Linkedin](https://www.linkedin.com/in/kaylyn-venerable-102007109/)
 
 ### Resume
