@@ -19,7 +19,7 @@ The PomodoroPet  is a web application that allows users to:
 
 Login/ Logout
 Create Add, Update, Complete and Edit task 
-Pomodoro Timer
+Pomodoro Timer method
 
 
 
