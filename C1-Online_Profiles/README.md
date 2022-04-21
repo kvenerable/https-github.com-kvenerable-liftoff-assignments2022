@@ -11,7 +11,7 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### LinkedIn
 
-[Linkedin](https://www.linkedin.com/in/kaylyn-venerable-102007109/)
+[Linkedin](https://www.linkedin.com/in/kvenerable/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
