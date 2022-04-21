@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[PO Tracking Management](https://github.com/April-2022-LC-LiftOff/isaac2electricbogaloo.git)
+[PomPet](https://github.com/April-2022-LC-LiftOff/isaac2electricbogaloo.git)
